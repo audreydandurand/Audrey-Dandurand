@@ -8,5 +8,12 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
+# Mon introduction
+J'ai choisi la technique d'intégration multimédia, car j'aime beaucoup tout ce qui touche à la technologie et le multimédia. Je voudrais travailler dans ce domaine
+ultérieurement et pour l'instant, je n'ai pas une idée précise de mon futur métier. Cette technique m'ouvrira plusieurs porte et peut-être que je découvrirai d'autres 
+choses qui m'intéressera. Je pourrai me spécifier plus sur cet aspect à l'université. Présentement, c'est le montage vidéo que j'apprécie faire lors de mes temps libre.
+C'est donc le cours dans lequel nous allons aborder ce sujet qui m'intéresse le plus. J'ai aussi hâte et d'apprendre sur: 
+* L'interactivié web
+* La photographie 📷
 
 
