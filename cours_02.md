@@ -19,5 +19,5 @@ La compagnie multimedia Pixmob concoit des jeux de lumière durant des spectacle
 J'ai choisi cette oeuvre,car elle a refait plonger tout le monde dans le passé avec tout plein de jeux d'images projettées. J'aime le fait qu'elle soit accessible à tous et qu'elle nous en apprenne plus sur l'histoire du Québec.
 
 ### [Marche Marche Danse](https://www.dailytouslesjours.com/fr/projets/marche-marche-danse)
-Cette oeuvre de Daily tous les jours permet à tous,petits et grands,de s'amuser sur ces lignes de couleurs musicales. J'aime le fait que cette oeuvre soit placée en ville de façon à la rendre accessible à tous. 
+Cette oeuvre de Daily tous les jours permet à tous,petits et grands,de s'amuser sur ces lignes de couleurs musicales. J'aime le fait que cette oeuvre soit placée en ville de façon à la rendre accessible à tous.
 
