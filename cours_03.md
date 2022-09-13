@@ -17,4 +17,5 @@ Je trouve que l'entreprise WIREFRAME est très intéressante. Elle est basée à
 
 Dans 5 ans, je me vois aller à l'université entrain de me spécialiser dans un des secteurs du multimédia.
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+
+Un projet que j'aimerais réaliser serait de designer un site web. 
