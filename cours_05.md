@@ -3,7 +3,7 @@
 
 ### Points forts
 
- Un de mes points forts est que j'ai bien suivi les consignes, car j'ai parlé de tous les éléments nécessaire pour cette présentation orale. De plus, j'avais assez d'informations pour parler des sujets donnés lors de cette présentation orale. J'ai réussi à atteindre le temps nécessaire ce qui appuie le nombre d'informations que j'avais.
+ Un de mes points forts est que j'ai bien suivi les consignes, car j'ai parlé de tous les éléments nécessaires pour cette présentation orale. De plus, j'avais assez d'informations pour parler des sujets donnés lors de cette présentation orale. J'ai réussi à atteindre le temps nécessaire ce qui appuie le nombre d'informations que j'avais.
 
 ### Points à améliorer
 
