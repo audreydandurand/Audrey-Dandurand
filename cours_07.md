@@ -1,10 +1,6 @@
 # Cours 7
 ## Analyse critique d'une oeuvre
 
-L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
-
-Entre 300 et 400 mots. 
-
 ### Description
 Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
 
